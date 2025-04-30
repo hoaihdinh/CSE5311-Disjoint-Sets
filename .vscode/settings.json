@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "union_find_tree.h": "c",
+        "limits.h": "c",
+        "time.h": "c"
+    }
+}
